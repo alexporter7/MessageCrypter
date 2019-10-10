@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageCrypter", "MessageCrypter\MessageCrypter.csproj", "{0F0A11A6-CFF2-4855-ADB1-E6F2A4B44426}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F0A11A6-CFF2-4855-ADB1-E6F2A4B44426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F0A11A6-CFF2-4855-ADB1-E6F2A4B44426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F0A11A6-CFF2-4855-ADB1-E6F2A4B44426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F0A11A6-CFF2-4855-ADB1-E6F2A4B44426}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D37017A3-067D-4AB3-8D31-A12C820F7D26}
+	EndGlobalSection
+EndGlobal
